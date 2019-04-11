@@ -1,0 +1,6 @@
+framework module mylibsss {
+  umbrella header "mylibsss-umbrella.h"
+
+  export *
+  module * { export * }
+}
